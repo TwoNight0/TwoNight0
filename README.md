@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I wanna be a ***GameProgrammer***🎮🕹 <Br>
+I'm leanning C# & C++
 <!--
 **TwoNight0/TwoNight0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
